@@ -1,6 +1,6 @@
 - 😇 Hi, I’m Rajdeep Chatterjee
 - 🤩 I’m interested in Python, Artificial Intelligence, Statistics and anything that makes me think deeply
-- 🤓 I’m currently learning Machine Learning 
+- 🤓 I’m a Data Scientist
 - 🧐 I’m looking to collaborate on Machine Learning, Computer Vision, Python based projects
 - 🤝 You can reach me at rajdeepc013@gmail.com
 
